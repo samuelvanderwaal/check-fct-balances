@@ -1,0 +1,6 @@
+{
+    "host": "http://courtesy-node.factom.com",
+    "addresses": { "Server 1": "FA3...",
+                  "Server 2": "FA3..."
+                  }
+}
