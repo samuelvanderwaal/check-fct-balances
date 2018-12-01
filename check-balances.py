@@ -35,6 +35,6 @@ for name, addr in config["addresses"].items():
 print("-------------------------------------------------")
 print("Total Factoids:              {:>20}".format(total_balance))
 print("-------------------------------------------------")
-print("Price:                  {:>20}${:,.2f}".format(" ", price))
+print("Price:                  {:>19}${:,.2f}".format(" ", price))
 print("-------------------------------------------------")
 print("Current FCT Value: {:>20}${:,.2f}".format(" ", total_balance * price))
